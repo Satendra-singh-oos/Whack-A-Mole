@@ -6,4 +6,4 @@
 - CSS: Styled the game elements for an appealing and responsive design.
 - JavaScript: Developed the game's logic, including mole spawning, player input, scoring, and timer management.
 
-### LIVE LINK :-
+### LIVE LINK :- https://phenomenal-douhua-790eaa.netlify.app/
